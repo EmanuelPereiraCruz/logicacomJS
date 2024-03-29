@@ -3,8 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 <p>
-  <a href="#Cap01">Introdução</a><br><br>
-  <a href="#Cap02">Acessando Arquivo HTML</a><br><br>
+  <a href="#Cap01">Capítulo 01</a><br><br>
+  <a href="#Cap02">Capítulo 02</a><br><br>
 </p>
 
 ### Cap01
