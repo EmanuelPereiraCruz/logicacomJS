@@ -8,7 +8,11 @@
 </p>
 
 ### Cap01
-<p>No primeiro capítulo do livro, estudei sobre: Declaração de Variáveis </p>
+<p>No primeiro capítulo do livro, estudei sobre:<br>
+  * A;
+  * B;
+  * C.
+</p>
 
 
 ### Cap02
