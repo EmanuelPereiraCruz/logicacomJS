@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo(a)!<br/>
-#### Estou deixando nesse repositório o meu progresso nos estudos de Lógica de Programação com JavaScript, :D
+#### Estou deixando nesse repositório o meu progresso nos estudos de **Lógica de Programação com JavaScript**, :D
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 <p>
@@ -10,10 +10,15 @@
 
 ### Cap01
 <p>No primeiro capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br>
+  
   * Uso do método alert -> Esse método permite que exibamos, através de um modal, informações para o usuário. Por exemplo, quando o usuário acessar a página, ele pode ver a seguinte mensagem: "Olá, seja bem-vindo(a)!"<br><br>
-  Mais sobre o método alert:<br> https://www.homehost.com.br/blog/javascript/alert-javascript/#:~:text=A%20usabilidade%20e%20exemplos%20do%20m%C3%A9todo%20alert%20JavaScript,Motivos%20para%20uso%20...%204%20Como%20fazer%20<br><br>
-  * B;
-  * C.
+  Sintaxe: alert("mensagem");
+
+  * Uso do método prompt -> Esse método permite com que o usuário nos forneça informações quando acessar nossa página. Quando usamos o método prompt, é exibido um modal que solicita ao usuário algum tipo de informação. por exemplo, seu nome, e-mail, idade etc.<br><br>
+    Sintaxe: prompt("mensagem");
+
+ * Criação de variáveis -> 
+
 </p>
 
 
