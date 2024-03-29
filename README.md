@@ -2,17 +2,17 @@
 #### Estou deixando nesse repositório o meu progresso nos estudos de Lógica de Programação com JavaScript, :D
 
 <p>
-  <a href="#introducao">Introdução</a><br><br>
-  <a href="#acessandohtml">Acessando Arquivo HTML</a><br><br>
+  <a href="#cap01">Introdução</a><br><br>
+  <a href="#cap02">Acessando Arquivo HTML</a><br><br>
 </p>
 
-# introducao
+# cap01
 <p>A</p>
 <p>A</p>
 <p>A</p>
 <p>A</p>
 
-# acessandohtml
+# cap02
 <p>A</p>
 <p>A</p>
 <p>A</p>
