@@ -16,6 +16,7 @@
   * Comentários;<br>
   * Método number;<br>
   * Tipos de dados em JavaScript.<br>
+  Resumo do Capitulo 01: https://www.notion.so/Teoria-34db52b3ce8e45c2a1e784019c24474b?pvs=4
 </p>
 
 
