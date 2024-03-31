@@ -15,7 +15,7 @@
   * Declaração de variáveis e constantes;<br>
   * Comentários;<br>
   * Método number;<br>
-  * Tipos de dados em JavaScript<br>
+  * Tipos de dados em JavaScript.<br>
 </p>
 
 
