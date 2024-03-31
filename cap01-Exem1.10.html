@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap01-Exemplo1.10</title>
+</head>
+
+<body>
+    <p>Elaborar um programa para uma loja, o qual leia o preço de um produto e informe
+        as opções de pagamento da loja. Calcule e informe o valor para pagamento:
+        1 - A vista com 10% de desconto;
+        2 - Parcelado em 3x;
+    </p>
+
+    <script>
+        //Entrada:
+        let precoDoProduto = prompt("Por favor, informe o preço do produto: ");
+        precoDoProduto = Number(precoDoProduto);
+
+        //Processamento:
+        let precoAVista = precoDoProduto * 0.9;
+
+        let precoParcelado = precoDoProduto / 3;
+
+        //Saída:
+        alert("Preço do Produto R$: " + precoDoProduto.toFixed(2) + ". Formas de pagamento: \n\nPreço a Vista com 10% de desconto R$: " + precoAVista.toFixed(2) + "\n\nO preço do produto parcelado em 3x é de R$: " + precoParcelado.toFixed(2))
+    </script>
+</body>
+
+</html>

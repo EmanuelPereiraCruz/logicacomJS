@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap01-Exemplo1.6</title>
+</head>
+
+<body>
+    <p>Elaborar um programa que leia o valor de um jantar.
+        Calcule e informe o valor da taxa do garçom(10%) e o valor total a ser pago.
+    </p>
+
+    <p><b>Etapas para resolução do desafio:</b><br><br>
+        <b>Etapa 1</b> - Entrada dos dados: Ler o valor de um jantar.<br><br>
+        <b>Etapa 2</b> - Processamento dos dados: Calcular a taxa do garçom e o valor a ser pago.<br><br>
+        <b>Etapa 3</b> - Saida: Informar o valor a ser pago.
+    </p>
+
+    <script>
+        //<b>Etapa 1</b> - Entrada dos dados: Ler o valor de um jantar.<br><br>//
+        let precoJantar = prompt("Por favor, informe o preço do jantar: ");
+        precoJantar = Number(precoJantar);
+        console.log(typeof (precoJantar));
+
+        //<b>Etapa 2</b> - Processamento dos dados: Calcular a taxa do garçom e o valor a ser pago.<br><br>//
+        let taxaGarçom = (precoJantar * 0.1);
+        console.log(typeof (taxaGarçom));
+
+        let precoFinal = (precoJantar + taxaGarçom);
+        console.log(typeof (precoFinal));
+
+        //<b>Etapa 3</b> - Saida: Informar o valor a ser pago.//
+        alert("O valor do jantar foi de: " + precoJantar + "\n A taxa do garçom é de: " + taxaGarçom.toFixed(2) + "\n O preço final portanto é de: " + precoFinal.toFixed(2))
+    </script>
+</body>
+
+</html>

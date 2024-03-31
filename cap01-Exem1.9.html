@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap01-Exemplo1.9</title>
+</head>
+
+<body>
+    <p>Elaborar um programa para uma pizzaria, o qual leia o valor total de uma conta e quantos clientes vão paga-la.
+        Calcule e informe o valor a ser pago por cliente.
+    </p>
+
+    <script>
+        //Entrada
+        let valorDaConta = prompt("Por favor, informe o valor da conta: ");
+        valorDaConta = Number(valorDaConta);
+
+        let qtdDePessoas = prompt("Por favor, informe a quantidade de pessoas que vão pagar a conta: ");
+        qtdDePessoas = Number(qtdDePessoas);
+
+        //Processamento
+        let valorIndividual = valorDaConta / qtdDePessoas;
+
+        //Saída:
+        alert("O valor da conta foi de R$: " + valorDaConta.toFixed(2) + "\nA quantidade total de clientes é: " + qtdDePessoas + "\nO valor por cliente é R$: " + valorIndividual.toFixed(2))
+    </script>
+</body>
+
+</html>

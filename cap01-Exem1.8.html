@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap01-Exemplo1.8</title>
+</head>
+
+<body>
+    <p>Elaborar um programa que leia um número.
+        Calcule e informe os seus vizinhos, ou seja, o número anterior e posterior.
+    </p>
+
+    <script>
+        //Entrada//
+        let numero = prompt("Por favor, informe um número: ");
+        numero = Number(numero);
+
+        //Processamento//
+        let anterior = numero-1;
+        let posterior = numero+1
+
+        //Saída//
+        alert("O antecessor e o sucesso do número "+numero+" é: \nAntecessor: "+anterior+"\nSucessor: "+posterior);
+    </script>
+</body>
+
+</html>
