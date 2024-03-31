@@ -11,9 +11,9 @@
 ### Cap01
 <p>No primeiro capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br>
   * Método alert;<br>
-  * Método prompt;<br>
-  * Declaração de variáveis e constantes;<br>
   * Comentários;<br>
+  * Declaração de variáveis e constantes;<br>
+  * Método prompt;<br>
   * Método number;<br>
   * Tipos de dados em JavaScript.<br>
 </p>
