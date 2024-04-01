@@ -9,7 +9,7 @@
 </p>
 
 ### Cap01
-<p>No primeiro capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br>
+<p>No <b>primeiro</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
   * Método alert;<br>
   * Comentários;<br>
   * Declaração de variáveis e constantes;<br>
@@ -18,11 +18,13 @@
   * Tipos de dados em JavaScript.<br>
 </p>
 
-
 ### Cap02
-<p>A</p>
-<p>A</p>
-<p>A</p>
-<p>A</p>
+<p>No <b>segundo</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+  * Estrutura de um documento HTML;<br>
+  * Introdução a eventos e funções;<br>
+  * Método getElementByID;<br>
+  * Escopo de variável;<br>
+  * Operadores ariméticos e funções matemáticas.<br>
 
+  
 ### Cap03
