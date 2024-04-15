@@ -1,7 +1,9 @@
+//Criei uma função para calcular a área do retangulo. 
 function calculaArea(){
     let largura = document.getElementById("inLargura").value;
     largura = Number(largura);
-
+    
+    //Fazendo uma validação para assegurar que o campo largura foi preenchido corretamente.
     if(largura == "" || largura <0 || isNaN(largura)){
         alert("Por favor, informe uma largura VÁLIDA!");
         return;
@@ -15,6 +17,7 @@ function calculaArea(){
         return;
     }
 
+    //Calculando a área do retângulo:
     let areaDoRetangulo = altura*largura;
 
     outArea.textContent = "A área do retângulo é: "+areaDoRetangulo.toFixed(2);
