@@ -10,7 +10,11 @@ function calculaMedia(){
     let mediaDasNotas = (nota1+nota2)/2;
 
     outMedia.textContent = "A média das suas notas é: "+mediaDasNotas.toFixed(2);
-
+    
+    /*O if verifica a situação do aluno para determinar se ele está aprovado ou não.
+    Caso a média do aluno seja igual ou maior que 7, ele está aprovado!
+    No entanto, caso a sua nota seja menor que 7, ele está reprovado.*/
+    
     if(mediaDasNotas>=7){
         outSituacao.textContent = "Parabéns "+nome + "! Você foi aprovado(a).";
         outSituacao.style.color = "blue";
