@@ -6,6 +6,7 @@
   <a href="#Cap01">Capítulo 01 - Introdução</a><br><br>
   <a href="#Cap02">Capítulo 02 - Integração com HTML</a><br><br>
   <a href="#Cap03">Capítulo 03 - Condições</a><br><br>
+  <a href="#Cap04">Capítulo 04 - Repetições</a><br><br>
 </p>
 
 ### Cap01
@@ -28,3 +29,9 @@
 
   
 ### Cap03
+<p>No <b>terceiro</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+* if e else;<br>
+* Operadores relacionais:<br>
+* Operadores lógicos;<br>
+* Switch case;<br>
+* Operador ternário.
