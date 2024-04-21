@@ -31,7 +31,7 @@
 ### Cap03
 <p>No <b>terceiro</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
 * if e else;<br>
-* Operadores relacionais:<br>
+* Operadores relacionais;<br>
 * Operadores lógicos;<br>
 * Switch case;<br>
 * Operador ternário.<br>
