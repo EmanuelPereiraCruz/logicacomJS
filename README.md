@@ -37,3 +37,4 @@
 * Operador ternário.<br>
 
 ### Cap04
+<p>No <b>quarto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
