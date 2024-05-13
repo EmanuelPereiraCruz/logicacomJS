@@ -39,4 +39,8 @@
 ### Cap04
 <p>No <b>quarto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
 * Repetição com variável de controle: laço for;<br>
-* Repetição com teste no inicio: laço while
+* Repetição com teste no inicio: laço while;<br>
+* Repetição com teste no final: laço do.. while;<br>
+* Interrupções nos laços (break e continue);<br>
+* Contadores e acumuladores;<br>
+* Depurar programas ( detectar erros );<br>
