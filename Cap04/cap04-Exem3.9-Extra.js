@@ -4,7 +4,7 @@
 
 Quadrados dos números de 1 a 10:
 
-Escreva um programa que use um laço for para exibir os quadrados dos números de 1 a 10.
+Escreva um programa que use um while para exibir os quadrados dos números de 1 a 10.
 
 */
 
