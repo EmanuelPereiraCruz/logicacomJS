@@ -8,6 +8,7 @@
   <a href="#Cap03">Capítulo 03 - Condições</a><br><br>
   <a href="#Cap04">Capítulo 04 - Repetições</a><br><br>
   <a href="#Cap05">Capítulo 05 - Vetores</a><br><br>
+  <a href="#Cap06">Capítulo 06 - Strings e datas</a><br><br>
 </p>
 
 ### Cap01
@@ -54,4 +55,7 @@
 * Vetores de objetos;<br>
 * Pesquisar e filtrar dados;<br>
 * Classificar os itens do vetor;<br>
+
+### Cap06
+<p>No <b>sexto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
 
