@@ -50,4 +50,8 @@
 <p>No <b>quinto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
 * Inclusão e exclusão de itens;<br>
 * Tamanho do vetor e exibição dos itens;<br>
-* Localizar conteúdo
+* Localizar conteúdo;<br>
+* Vetores de objetos;<br>
+* Pesquisar e filtrar dados;<br>
+* Classificar os itens do vetor;<br>
+
