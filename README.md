@@ -45,7 +45,7 @@
 * Repetição com teste no final: laço do.. while;<br>
 * Interrupções nos laços (break e continue);<br>
 * Contadores e acumuladores;<br>
-* Depurar programas ( detectar erros );<br>
+* Depurar programas ( detectar erros ).<br>
 
 ### Cap05
 <p>No <b>quinto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
@@ -54,8 +54,15 @@
 * Localizar conteúdo;<br>
 * Vetores de objetos;<br>
 * Pesquisar e filtrar dados;<br>
-* Classificar os itens do vetor;<br>
+* Classificar os itens do vetor.<br>
 
 ### Cap06
 <p>No <b>sexto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
-
+* Percorrer os caracteres de uma string;<br>
+* Converter para letras maiúsculas ou minúsculas;<br>
+* Cópia de caracteres da string;<br>
+* Localizar um ou mais caracteres na string;<br>
+* Dividir a string em elemento de vetor;<br>
+* Validar senhas com o método match();<br>
+* Substituição de caracteres;<br>
+* Manipulação de datas.
