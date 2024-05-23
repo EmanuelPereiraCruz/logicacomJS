@@ -9,6 +9,7 @@
   <a href="#Cap04">Capítulo 04 - Repetições</a><br><br>
   <a href="#Cap05">Capítulo 05 - Vetores</a><br><br>
   <a href="#Cap06">Capítulo 06 - Strings e datas</a><br><br>
+  <a href="#Cap07">Capítulo 07 - Funções e eventos</a><br><br>
 </p>
 
 ### Cap01
@@ -66,3 +67,5 @@
 * Validar senhas com o método match();<br>
 * Substituição de caracteres;<br>
 * Manipulação de datas.
+
+### Cap07
