@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cap07-Exem1.1</title>
+</head>
+
+<body>
+
+    <h1 style="font-family: Arial, Helvetica, sans-serif; text-align: center;">Exemplo de Função com passagem de
+        parâmetro</h1>
+    <hr>
+
+    <p>Nesse exemplo, damos inicio ao estudo das Funções<br></p>
+
+    <p>O exemplo 1.1 do Capitulo 7 nos motra como criar uma função recebendo parâmetros.
+        Os parâmetros passados são nota, media.
+
+        E como argumentos recebemos prova1 que corresponde a nota do aluno, e 7 que corresponde a média.<br><br>
+
+        Função recebe 2 parâmetros: nota e média<br><br>
+
+        function exibirSituacao(nota, media){
+        if(nota>=media){
+        alert("Aprovado!");
+        }else{
+        alert("Reprovado!");
+        }
+        }
+
+        let prova1 = Number(prompt("Qual sua nota: "))
+
+        exibirSituacao(prova1, 7);
+    </p>
+
+
+    <script src="cap07-Exem1.1.js"></script>
+
+</body>
+
+</html>
