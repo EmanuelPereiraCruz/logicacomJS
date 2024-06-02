@@ -69,3 +69,9 @@
 * Manipulação de datas.
 
 ### Cap07
+<p>No <b>sétimo</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+* Funções com passagem de parâmetros;
+* Funções com retorno de valor;
+* Funções anônimas;
+* Funções atribuídas para variáveis;
+* Eventos JavaScript;
