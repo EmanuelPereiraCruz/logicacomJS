@@ -1,5 +1,6 @@
 ### Olá, seja bem-vindo(a)!<br/>
-#### Estou deixando nesse repositório o meu progresso nos estudos de **Lógica de Programação com JavaScript**, :D
+
+#### Aqui, estou organizando todo o meu progresso nos estudos de Lógica de Programação com JavaScript, 🤓
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 <p>
