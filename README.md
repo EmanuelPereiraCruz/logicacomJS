@@ -11,10 +11,11 @@
   <a href="#Cap05">Capítulo 05 - Vetores</a><br><br>
   <a href="#Cap06">Capítulo 06 - Strings e datas</a><br><br>
   <a href="#Cap07">Capítulo 07 - Funções e eventos</a><br><br>
+  <a href="#Cap07">Capítulo 08 - Persistência de dados com localStorage</a><br><br>
 </p>
 
 ### Cap01
-<p>No <b>primeiro</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+<p>O <b>primeiro</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou seguintes assuntos:<br><br>
   * Método alert;<br>
   * Comentários;<br>
   * Declaração de variáveis e constantes;<br>
@@ -24,7 +25,7 @@
 </p>
 
 ### Cap02
-<p>No <b>segundo</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+<p>O <b>segundo</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou os seguintes assuntos:<br><br>
   * Estrutura de um documento HTML;<br>
   * Introdução a eventos e funções;<br>
   * Método getElementByID;<br>
@@ -33,7 +34,7 @@
 
   
 ### Cap03
-<p>No <b>terceiro</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+<p>O <b>terceiro</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou os seguintes assuntos:<br><br>
 * if e else;<br>
 * Operadores relacionais;<br>
 * Operadores lógicos;<br>
@@ -41,7 +42,7 @@
 * Operador ternário.<br>
 
 ### Cap04
-<p>No <b>quarto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+<p>O <b>quarto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou os seguintes assuntos:<br><br>
 * Repetição com variável de controle: laço for;<br>
 * Repetição com teste no inicio: laço while;<br>
 * Repetição com teste no final: laço do.. while;<br>
@@ -50,7 +51,7 @@
 * Depurar programas ( detectar erros ).<br>
 
 ### Cap05
-<p>No <b>quinto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+<p>O <b>quinto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou os seguintes assuntos:<br><br>
 * Inclusão e exclusão de itens;<br>
 * Tamanho do vetor e exibição dos itens;<br>
 * Localizar conteúdo;<br>
@@ -59,7 +60,7 @@
 * Classificar os itens do vetor.<br>
 
 ### Cap06
-<p>No <b>sexto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+<p>O <b>sexto</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou os seguintes assuntos:<br><br>
 * Percorrer os caracteres de uma string;<br>
 * Converter para letras maiúsculas ou minúsculas;<br>
 * Cópia de caracteres da string;<br>
@@ -70,9 +71,12 @@
 * Manipulação de datas.
 
 ### Cap07
-<p>No <b>sétimo</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript, foi abordado os seguintes assuntos:<br><br>
+<p>O <b>sétimo</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou os seguintes assuntos:<br><br>
 * Funções com passagem de parâmetros;<br>
 * Funções com retorno de valor;<br>
 * Funções anônimas;<br>
 * Funções atribuídas para variáveis;<br>
 * Eventos JavaScript;
+
+### Cap08
+<p>O <b>oitavo</b> capítulo do livro de Lógica de Programação e Algoritmos com JavaScript abordou os seguintes assuntos:<br><br>
