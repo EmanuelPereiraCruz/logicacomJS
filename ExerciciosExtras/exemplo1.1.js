@@ -3,9 +3,9 @@
 
 function calcularAreaCircunferencia(){
     let raio_da_circunferencia = document.getElementById("inRaio").value;
-    raio_da_circunferencia = Number(raio_da_circunferencia)
+    raio_da_circunferencia = Number(raio_da_circunferencia)//Aqui, convertir o valor da variável em um número.
 
-    if(raio_da_circunferencia == ""){
+    if(raio_da_circunferencia == ""){//Aqui, faço uma checagem para validar se o campo foi preenchido.
         alert("Por favor, preencha o campo.")
         inRaio.focus()
         return;
